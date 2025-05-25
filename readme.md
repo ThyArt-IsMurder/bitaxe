@@ -1,4 +1,4 @@
-# Bitaxe hardware repository has split into model specific repos and moved to [bitaxeorg](https://github.com/bitaxeorg)
+# Bitaxe hardware repository
 ```
 Open Source is Intrinsic to Bitcoin
 ```
